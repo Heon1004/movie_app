@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Heon1004/movie_app/static/css/main.83a36075.chunk.css",
+    "main.js": "/Heon1004/movie_app/static/js/main.659d3e8b.chunk.js",
+    "main.js.map": "/Heon1004/movie_app/static/js/main.659d3e8b.chunk.js.map",
+    "runtime-main.js": "/Heon1004/movie_app/static/js/runtime-main.1fab036f.js",
+    "runtime-main.js.map": "/Heon1004/movie_app/static/js/runtime-main.1fab036f.js.map",
+    "static/js/2.f46e4762.chunk.js": "/Heon1004/movie_app/static/js/2.f46e4762.chunk.js",
+    "static/js/2.f46e4762.chunk.js.map": "/Heon1004/movie_app/static/js/2.f46e4762.chunk.js.map",
+    "index.html": "/Heon1004/movie_app/index.html",
+    "static/css/main.83a36075.chunk.css.map": "/Heon1004/movie_app/static/css/main.83a36075.chunk.css.map",
+    "static/js/2.f46e4762.chunk.js.LICENSE.txt": "/Heon1004/movie_app/static/js/2.f46e4762.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fab036f.js",
+    "static/js/2.f46e4762.chunk.js",
+    "static/css/main.83a36075.chunk.css",
+    "static/js/main.659d3e8b.chunk.js"
+  ]
+}
